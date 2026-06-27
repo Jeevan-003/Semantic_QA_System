@@ -244,7 +244,7 @@ The evaluation compares retrieved research papers against manually identified re
 
 ### Precision@K Evaluation Results
 
-![Precision_Evaluation_Results](screenshots/precision_results.png)
+![Precision_Evaluation_Results](screenshots/precision_result.png)
 
 
 ## Future Improvements
