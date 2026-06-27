@@ -205,9 +205,7 @@ streamlit run app.py
 
 - What is Acute Lymphoblastic Leukemia?
 - Which dataset was used?
-- What optimizer was used?
-- Explain EfficientNet.
-- Which model achieved the highest accuracy?
+- What are the traditional challenges faced
 
 ---
 
@@ -227,23 +225,27 @@ The evaluation compares retrieved research papers against manually identified re
 
 ## Sample Output
 
-### Semantic Search
+### Home page
 
-(Insert Screenshot)
+![Semantic Search](screenshots/home.png)
 
----
+
+### Reranking Results after Semantic Search
+
+![Reranking Results](screenshots/rerankedresults.png)
 
 ### Generated Answer
 
-(Insert Screenshot)
+![Semantic Search](screenshots/semantic_search.png)
 
----
+### Precision@K Evaluation
 
-### Precision@K
+![Precision_Evaluation](screenshots/precision_evaluation.png)
 
-(Insert Screenshot)
+### Precision@K Evaluation Results
 
----
+![Precision_Evaluation_Results](screenshots/precision_results.png)
+
 
 ## Future Improvements
 
