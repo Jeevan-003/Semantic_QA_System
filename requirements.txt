@@ -1,0 +1,13 @@
+streamlit==1.46.1
+sentence-transformers==5.0.0
+chromadb==1.0.15
+pymupdf==1.26.3
+langchain-text-splitters==0.3.8
+ollama==0.5.1
+numpy==2.3.1
+pandas==2.3.0
+scikit-learn==1.7.0
+transformers==4.53.1
+torch>=2.7
+tqdm==4.67.1
+python-dotenv==1.1.1
