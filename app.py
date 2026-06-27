@@ -84,7 +84,7 @@ if "retrieved_files" in st.session_state:
 
         score = precision_at_k(
                 relevant_files,
-                st.session_state["retrieved_files"]   # ✅ Use session_state
+                st.session_state["retrieved_files"]  
         )
 
         st.success(
