@@ -223,7 +223,7 @@ The evaluation compares retrieved research papers against manually identified re
 
 ---
 
-## Sample Output
+## Sample Output Screenshots
 
 ### Home page
 
@@ -236,7 +236,7 @@ The evaluation compares retrieved research papers against manually identified re
 
 ### Generated Answer
 
-![Semantic Search](screenshots/semantic_search.png)
+![Semantic Search](screenshots/generated.png)
 
 ### Precision@K Evaluation
 
